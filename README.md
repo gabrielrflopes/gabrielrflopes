@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrflopes&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrflopes" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ed75914c4d125b17e39d318dace9e586/56d7ec871e311a3f-ad/s640x960/29beaab7cff369d5c47cd36514ab80f650980d4f.gif">
+<img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04193326/Thumbnail_designing-with-data.gif">
 
 - 🔭 Trabalhando no momento com **Data Science na Prática do Sigmoidal**
 
