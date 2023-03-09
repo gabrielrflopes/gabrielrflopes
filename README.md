@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrflopes&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrflopes" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04193326/Thumbnail_designing-with-data.gif">
-
 - 🔭 Trabalhando no momento com **Data Science na Prática do Sigmoidal**
 
 - 🌱 No momento, estou estudando **data science para negócios, pandas e visualização de dados**
