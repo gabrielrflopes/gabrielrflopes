@@ -19,7 +19,7 @@
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)((https://medium.com/@grflopes)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@grflopes)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrflopes&show_icons=true&locale=en&theme=dark" alt="gabrielrflopes" /></p>
 
