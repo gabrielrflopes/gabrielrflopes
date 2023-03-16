@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/gabrielrflopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielrflopes" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielr.lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielr.lopes" height="30" width="40" /></a>
 <a href="https://medium.com/@grflopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@grflopes" height="30" width="40" /></a>
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrflopes&show_icons=true&locale=en&theme=dark" alt="gabrielrflopes" /></p>
