@@ -7,6 +7,8 @@
 
 - 🌱 No momento, estou estudando **data science para negócios, pandas e visualização de dados**
 
+- 🎯 Você pode encontrar alguns estudos aqui: https://github.com/gabrielrflopes/estudos
+
 - 👨‍💻 Você pode encontrar meu portfólio aqui: [https://github.com/gabrielrflopes/Data-Science-Portfolio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
 
 - 📝 Escrevo artigos regularmente no Medium [https://medium.com/@grflopes](https://medium.com/@grflopes)
