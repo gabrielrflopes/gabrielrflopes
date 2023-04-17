@@ -3,21 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrflopes&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrflopes" /> </p>
 
-- 🔭 Trabalhando no momento com **Data Science na Prática do Sigmoidal**
+<h3 align = 'left'>🎯 Portfólio</h4>
 
-- 🌱 No momento, estou estudando **data science para negócios, pandas e visualização de dados**
+- [Clique aqui para acessar meu portfólio de projetos em Data Science.](https://github.com/gabrielrflopes/Data-Science-Portfolio)
 
-- 🎯 Você pode encontrar alguns estudos aqui: https://github.com/gabrielrflopes/estudos
+<h4 align = 'left'>🔭 Estudos recentes</h4>
 
-- 👨‍💻 Você pode encontrar meu portfólio aqui: [https://github.com/gabrielrflopes/Data-Science-Portfolio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
+  - Formação em Data Science do Sigmoidal
+  
+  - IBM Data Science with Python Learning Path
+  
+  - Data Science para Negócios
 
-- 📝 Escrevo artigos regularmente no Medium [https://medium.com/@grflopes](https://medium.com/@grflopes)
+  - [**Repositório de estudos**](https://github.com/gabrielrflopes/estudos)
 
-- 💬 Pergunte-me sobre **Python, Data Science, Física**
+<h4 align = 'left'>📝 Artigos no Medium</h4>
 
-- 📫 Onde me encontrar: **gabriel.rfl@hotmail.com**
+- Regularmente, escrevo artigos sobre **Data Science**, **Aprendizado** e **Física** na [minha página no Medium](https://medium.com/@grflopes).
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h4 align = 'left'>📬 Para entrar em contato</h4>
+
+- **E-mail**: gabriel.rfl@hotmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielr.lopes/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrflopes/)
