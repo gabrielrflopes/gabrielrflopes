@@ -11,7 +11,7 @@
 
   - Formação em Data Science do Sigmoidal
   
-  - IBM Data Science with Python Learning Path
+  - Certificação de Data Science IBM
   
   - Data Science para Negócios
 
