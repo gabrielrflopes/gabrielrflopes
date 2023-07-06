@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrflopes&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrflopes" /> </p>
 
-<h3 align = 'left'>🎯 Portfólio</h4>
+## 🎯 Portfólio
 
 - [Clique aqui para acessar meu portfólio de projetos em Data Science.](https://github.com/gabrielrflopes/Data-Science-Portfolio)
 
-<h4 align = 'left'>🔭 Estudos recentes</h4>
+### 🔭 Estudos Recentes
 
   - Formação em Data Science do Sigmoidal
   
@@ -17,28 +17,32 @@
 
   - [**Repositório de estudos**](https://github.com/gabrielrflopes/estudos)
 
-<h4 align = 'left'>📝 Artigos no Medium</h4>
+### 📝 Artigos no Medium
 
 - Regularmente, escrevo artigos sobre **Data Science**, **Aprendizado** e **Física** na minha página no Medium.
 
- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grflopes)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grflopes)
 
-<h4 align = 'left'>📬 Para entrar em contato</h4>
+### 📬 Para Entrar em Contato</h4>
 
 - **E-mail**: gabriel.rfl@hotmail.com
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielr.lopes/)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrflopes/)
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+### Linguagens e Ferramentas:
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+ 
+ ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+ ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">Bibliotecas do Python:</h3>
+### Bibliotecas do Python:
 
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
