@@ -1,5 +1,5 @@
 <h1 align="left">Olá, me chamo Gabriel Ribeiro Ferreira Lopes</h1>
-<h3 align="left">Mestre em Física pela UNIFEI e Cientista de Dados.</h3>
+<h3 align="left">MsC. em Física e Cientista de Dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrflopes&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrflopes" /> </p>
 
