@@ -5,27 +5,28 @@
 
 ## 🎯 Portfólio
 
-- [Clique aqui para acessar meu portfólio de projetos em Data Science.](https://github.com/gabrielrflopes/Data-Science-Portfolio)
+> [**Clique aqui para acessar meu portfólio de projetos em Data Science.**](https://github.com/gabrielrflopes/Data-Science-Portfolio)
 
-### 🔭 Estudos Recentes
+## 🔭 Estudos Recentes
 
-  - Formação em Data Science do Sigmoidal
+  - Formação em Data Science do Sigmoidal;
   
-  - Certificação de Data Science IBM
+  - Certificação de Data Science IBM;
   
-  - Data Science para Negócios
+  - Livros: Data Science para Negócios (Provost e Fawcett) e Storytelling with Data (C. N Knaflic);
 
-  - [**Repositório de estudos**](https://github.com/gabrielrflopes/estudos)
+  > [**Repositório de estudos**](https://github.com/gabrielrflopes/estudos)
 
-### 📝 Artigos no Medium
+## 📝 Artigos no Medium
 
-- Regularmente, escrevo artigos sobre **Data Science**, **Aprendizado** e **Física** na minha página no Medium.
+- Artigos sobre **Data Science**, **Aprendizado** e **Física**;
+- Artigos de apresentação dos projetos.
 
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@grflopes)
 
-### 📬 Para Entrar em Contato</h4>
+## 📬 Para Entrar em Contato</h4>
 
-- **E-mail**: gabriel.rfl@hotmail.com
+> **E-mail**: **gabriel.rfl@hotmail.com**
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielr.lopes/)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrflopes/)
