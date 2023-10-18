@@ -13,8 +13,6 @@
   
   - Livros: Data Science para Negócios (Provost e Fawcett) e Storytelling with Data (C. N Knaflic);
 
-  > [**Repositório de estudos**](https://github.com/gabrielrflopes/estudos)
-
 ## 📝 Artigos no Medium
 
 - Artigos sobre **Data Science**, **Aprendizado** e **Física**;
