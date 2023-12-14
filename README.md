@@ -9,9 +9,9 @@
 
   - Formação em Data Science do Sigmoidal;
   
-  - Certificação de Data Science IBM;
+  - Cursos de Data Science IBM/Cognitive Class;
   
-  - Livros: Data Science para Negócios (Provost e Fawcett) e Storytelling with Data (C. N Knaflic);
+  - Livros: Data Science para Negócios (Provost e Fawcett) e Storytelling with Data (C. N. Knaflic);
 
 ## 📝 Artigos no Medium
 
