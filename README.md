@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitcover.png" >
+  <img src="githubcover.png" >
 </p>
 
 ## 🎯 Portfólio
