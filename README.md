@@ -1,5 +1,6 @@
-<h1 align="left">Olá, me chamo Gabriel Ribeiro Ferreira Lopes</h1>
-<h3 align="left">Físico e Cientista de Dados.</h3>
+<p align="center">
+  <img src="cover.png" >
+</p>
 
 ## 🎯 Portfólio
 
