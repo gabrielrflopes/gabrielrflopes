@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="git_cover.png" >
+  <img src="ghub_cover.png" >
 </p>
 
 <p align="center">
-  <img src="p1_exp.png" >
+  <img src="exp_p1.png" >
 </p>
 
 <p align="center">
-  <img src="p2_hab.png" >
+  <img src="hab_p2.png" >
 </p>
 
 <p align="center">
-  <img src="p3_cert.png" >
+  <img src="cert_p3.png" >
 </p>
 
 # Projetos
